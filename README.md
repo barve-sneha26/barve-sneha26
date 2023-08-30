@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**barve-sneha26/barve-sneha26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sneha Barve, a passionate Analytics Graduate student 📊📈. 
 
-Here are some ideas to get you started:
+🎓 Currently pursuing my Master's degree in Analytics, I'm dedicated to exploring the world of data and deriving meaningful insights from it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 I'm always eager to learn and collaborate on projects that involve statistical analysis, data wrangling, data visualizations and turning data into actionable insights.
+
+💡 My interests include:
+- Exploratory Data Analysis (EDA) to uncover hidden patterns and trends.
+- Machine Learning and predictive modeling for making data-driven decisions.
+- Data visualization to communicate insights effectively.
+
+
+🚀 Feel free to explore my repositories showcasing various projects and code related to data analytics. Let's connect and geek out over data!
+
+📫 You can reach me at barve.s@northeastern.edu or connect with me on https://www.linkedin.com/in/sneha-barve-ts/.
+
+Let's turn data into knowledge together! 📚🔍
+
+
+
+
+- 😄 Pronouns: She/Her
+
