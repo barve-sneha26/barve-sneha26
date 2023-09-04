@@ -14,7 +14,7 @@ I'm Sneha Barve, a passionate Analytics Graduate student 📊📈.
 
 🚀 Feel free to explore my repositories showcasing various projects and code related to data analytics. Let's connect and geek out over data!
 
-📫 You can reach me at barve.s@northeastern.edu or connect with me on https://www.linkedin.com/in/sneha-barve-ts/.
+📫 You can reach me at barve.s@northeastern.edu or connect with me on https://www.linkedin.com/in/sneha-barve-ts/
 
 Let's turn data into knowledge together! 📚🔍
 
