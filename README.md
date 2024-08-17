@@ -2,7 +2,7 @@
 
 I'm Sneha Barve, a passionate Analytics Graduate student 📊📈. 
 
-🎓 Currently pursuing my Master's degree in Analytics, I'm dedicated to exploring the world of data and deriving meaningful insights from it.
+🎓 Recent graduate with a Master's degree in Analytics, I'm dedicated to exploring the world of data and deriving meaningful insights from it.
 
 🔍 I'm always eager to learn and collaborate on projects that involve statistical analysis, data wrangling, data visualizations and turning data into actionable insights.
 
