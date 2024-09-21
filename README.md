@@ -1,6 +1,8 @@
 ### Hi there 👋 
 #### I'm Sneha Barve, a Data Enthusiast and Recent Analytics Graduate 🎓🔍
 
+If I have to describe myself in few lines, I'm a data analyst and engineer with expertise in automating data processes, deploying machine learning models, and crafting insightful visualizations, all while driving data-driven decisions through effective stakeholder communication. I'm passionate about leveraging Python and AWS to solve real-world challenges and continually advancing my knowledge in data science and AI.
+
 I'm a passionate data professional with a strong foundation in analytics, machine learning, and data engineering. With a Master’s degree in Analytics from Northeastern University, I’m driven by the challenge of transforming complex datasets into clear, actionable insights that guide business decisions.
 
 My journey in data has been shaped by hands-on experience across diverse projects and industries, ranging from automating data processes to building predictive models and creating dynamic visualizations. I've had the opportunity to work on enhancing OCR systems, integrating analytics into robotics, and developing customer segmentation strategies, all while collaborating with cross-functional teams to deliver impactful solutions.
