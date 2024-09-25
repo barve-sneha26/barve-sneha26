@@ -1,5 +1,5 @@
 ### Hi there 👋 
-#### I'm Sneha Barve, a Data Enthusiast and Recent Analytics Graduate 🎓🔍
+#### I'm Sneha Barve, a Data Enthusiast and an Analytics Graduate 🎓🔍
 
 If I have to describe myself in few lines, I'm a data analyst and engineer with expertise in automating data processes, deploying machine learning models, and crafting insightful visualizations, all while driving data-driven decisions through effective stakeholder communication. I'm passionate about leveraging Python and AWS to solve real-world challenges and continually advancing my knowledge in data science and AI.
 
