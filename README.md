@@ -17,7 +17,7 @@ My journey in data has been shaped by hands-on experience across diverse project
 Feel free to explore my repositories where I showcase my work in Python, R, SQL, Tableau and cloud technologies. I’m always open to connecting and collaborating on projects that push the boundaries of data science and analytics.
 
 📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/sneha-barve-ts/)  
-📧 **Contact:** barve.sneha26@outlook.com
+📧 **Contact:** sneha.barve08@gmail.com
 
 Let’s turn data into meaningful insights together! 💻📊
 
