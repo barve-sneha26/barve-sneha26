@@ -1,20 +1,26 @@
 ### Hi there 👋 
-#### I'm Sneha Barve, a Data Enthusiast and an Analytics Graduate 🎓🔍
+#### I'm Sneha Barve, Data & Analytics Engineer focused on building scalable data platforms and intelligent reporting systems across modern cloud ecosystems.
 
-If I have to describe myself in few lines, I'm a data analyst and engineer with expertise in automating data processes, deploying machine learning models, and crafting insightful visualizations, all while driving data-driven decisions through effective stakeholder communication. I'm passionate about leveraging Python and AWS to solve real-world challenges and continually advancing my knowledge in data science and AI.
+I design and implement end-to-end data solutions — from ingestion and transformation to modeling, validation, and business-facing analytics layers.
 
-I'm a passionate data professional with a strong foundation in analytics, machine learning, and data engineering. With a Master’s degree in Analytics from Northeastern University, I’m driven by the challenge of transforming complex datasets into clear, actionable insights that guide business decisions.
+Over the past few years, I’ve worked on:
 
-My journey in data has been shaped by hands-on experience across diverse projects and industries, ranging from automating data processes to building predictive models and creating dynamic visualizations. I've had the opportunity to work on enhancing OCR systems, integrating analytics into robotics, and developing customer segmentation strategies, all while collaborating with cross-functional teams to deliver impactful solutions.
+• Designing Medallion (Bronze → Silver → Gold) data pipelines on Azure Databricks & Delta Lake  
+• Building ingestion pipelines from Blob Storage, APIs, and relational databases into structured warehouse models  
+• Developing reusable PySpark transformation modules to handle schema drift, deduplication, and data standardization  
+• Migrating and validating 2M+ records across warehouse systems with reconciliation frameworks  
+• Creating automated reporting layers and stakeholder-ready dashboards used for revenue tracking, performance monitoring, and operational decision-making  
+• Implementing backend semantic search capabilities using vector databases to enable intelligent data retrieval workflows  
 
-### Here are some areas I focus on:
+I work closely with stakeholders in Agile environments, translating business requirements into reliable, production-grade data systems.
 
-- **Exploratory Data Analysis (EDA):** Uncovering patterns and trends to tell compelling data stories.
-- **Machine Learning & Predictive Modeling:** Building models that drive data-driven decisions.
-- **Data Engineering:** Designing robust pipelines and optimizing data flows.
-- **Data Visualization:** Crafting intuitive dashboards that communicate insights effectively.
+Tech Stack:
+Python | SQL | PySpark | Databricks | Snowflake | dbt| BigQuery | Airflow | Azure | AWS | Power BI | Vector Databases
 
-Feel free to explore my repositories where I showcase my work in Python, R, SQL, Tableau and cloud technologies. I’m always open to connecting and collaborating on projects that push the boundaries of data science and analytics.
+Currently exploring applied AI systems and agentic workflows built on open-source frameworks.
+
+
+Feel free to explore my repositories where I showcase my work in Python, R, SQL, BI and cloud technologies. I’m always open to connecting and collaborating on projects that push the boundaries of data science and analytics.
 
 📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/sneha-barve-ts/)  
 📧 **Contact:** sneha.barve08@gmail.com
