@@ -5,7 +5,7 @@ I design and implement end-to-end data solutions — from ingestion and transfor
 
 Over the past few years, I’ve worked on:
 
-- Designing Medallion (Bronze → Silver → Gold) data pipelines on Azure Databricks & Delta Lake  
+- Designing Medallion architecture (Bronze → Silver → Gold) data pipelines on Azure Databricks & Delta Lake  
 - Building ingestion pipelines from Blob Storage, APIs, and relational databases into structured warehouse models  
 - Developing reusable PySpark transformation modules to handle schema drift, deduplication, and data standardization  
 - Migrating and validating 2M+ records across warehouse systems with reconciliation frameworks  
@@ -14,7 +14,7 @@ Over the past few years, I’ve worked on:
 
 I work closely with stakeholders in Agile environments, translating business requirements into reliable, production-grade data systems.
 
-Tech Stack:
+**Tech Stack:**
 Python | SQL | PySpark | Databricks | Snowflake | dbt| BigQuery | Airflow | Azure | AWS | Power BI | Vector Databases
 
 Currently exploring applied AI systems and agentic workflows built on open-source frameworks.
